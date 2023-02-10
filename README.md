@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Wilson-coder-fullstack
 - 👀 I’m interested in software-development
-- 🌱 I’m currently learning ...Vue.js
 - 📫 How to reach me By email Wilsono.junior@outlook.com
 
 ## 🌐 Socials:
